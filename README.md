@@ -1,7 +1,7 @@
 CSIS 4260: Assignment 2, Web Scraping and Text Analysis
 
 Student: Abhilash Ravindranathan
-Program: Computer and Information Systems Post-Baccalaureate, Douglas College
+Student ID: 300414478
 Topic: Rental housing in Metro Vancouver, as reported by CBC News
 
 1. Overview
